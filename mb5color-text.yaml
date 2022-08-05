@@ -10,6 +10,6 @@ spec:
     image: mmumshad/simple-webapp-color
     env:
     - name: APP_COLOR
-      value: darkblue
+      value: pink
     ports:
       - containerPort: 8080
